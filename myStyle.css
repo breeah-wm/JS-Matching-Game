@@ -1,5 +1,7 @@
 img {
     position: absolute;
+    width: 150px;
+    height: 150px;
 }
 div {
     position: absolute;
@@ -7,6 +9,6 @@ div {
     height: 500px;
 }
 #rightside {
-    left: 500px;
+    left: 700px;
     border-left: 1px solid black;
 }
